@@ -11,13 +11,11 @@ API Test Base tests your API **and everything it does behind the scenes**: the d
 
 It is free, with no account to create and no cloud behind it — you run it on your own machine or in your CI/CD pipeline, and build test cases in a no-code / low-code UI.
 
-<div align="center">
-  <img alt="API Test Base test case run result — three steps (set up database data, invoke the HTTP API, check the database) all passed, shown in green with per-step timings" src="https://apitestbase.io/screenshots/basic-use/test-case-run-result.png" width="90%">
-</div>
+![API Test Base test case run result — three steps (set up database data, invoke the HTTP API, check the database) all passed, shown in green with per-step timings](https://apitestbase.io/screenshots/basic-use/test-case-run-result.png)
 
 ## Download
 
-Get the [latest release](https://github.com/apitestbase/apitestbase-release/releases/latest) and follow the [Quick Start](https://apitestbase.io/docs/en/quick-start) to install API Test Base and create your first test case.
+Get the [latest release](https://github.com/apitestbase/apitestbase-release/releases/latest) and follow the [Quick Start](https://apitestbase.io/docs/quick-start) to install API Test Base and create your first test case.
 
 ## Why API Test Base
 
